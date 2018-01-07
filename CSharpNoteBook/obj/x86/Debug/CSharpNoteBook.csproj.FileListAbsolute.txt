@@ -1,0 +1,10 @@
+c:\users\qi\documents\visual studio 2010\Projects\CSharpNoteBook\CSharpNoteBook\bin\Debug\CSharpNoteBook.exe
+c:\users\qi\documents\visual studio 2010\Projects\CSharpNoteBook\CSharpNoteBook\bin\Debug\CSharpNoteBook.pdb
+c:\users\qi\documents\visual studio 2010\Projects\CSharpNoteBook\CSharpNoteBook\obj\x86\Debug\CSharpNoteBook.exe
+c:\users\qi\documents\visual studio 2010\Projects\CSharpNoteBook\CSharpNoteBook\obj\x86\Debug\CSharpNoteBook.pdb
+E:\c#\CSharpNoteBook\CSharpNoteBook\CSharpNoteBook\bin\Debug\CSharpNoteBook.exe
+E:\c#\CSharpNoteBook\CSharpNoteBook\CSharpNoteBook\bin\Debug\CSharpNoteBook.pdb
+E:\c#\CSharpNoteBook\CSharpNoteBook\CSharpNoteBook\obj\x86\Debug\CSharpNoteBook.csprojResolveAssemblyReference.cache
+E:\c#\CSharpNoteBook\CSharpNoteBook\CSharpNoteBook\obj\x86\Debug\CSharpNoteBook.csproj.CoreCompileInputs.cache
+E:\c#\CSharpNoteBook\CSharpNoteBook\CSharpNoteBook\obj\x86\Debug\CSharpNoteBook.exe
+E:\c#\CSharpNoteBook\CSharpNoteBook\CSharpNoteBook\obj\x86\Debug\CSharpNoteBook.pdb
